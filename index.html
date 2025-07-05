@@ -1,22 +1,22 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>Mi sitio Docsify</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <div id="app">Cargando...</div>
-
-  <script>
-    window.$docsify = {
-      name: 'Test',
-      repo: '',
-      loadSidebar: true
-    }
-  </script>
-
-  <!-- Docsify script -->
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mi sitio Docsify</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
+  </head>
+  <body>
+    <div id="app">Cargando...</div>
+    <script>
+      window.$docsify = {
+        name: 'Test',
+        loadSidebar: true,
+        loadNavbar: true,
+        subMaxLevel: 2
+      }
+    </script>
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  </body>
 </html>
+
