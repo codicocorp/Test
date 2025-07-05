@@ -1,23 +1,4 @@
-- Getting started
-  - [Quick start](quickstart.md)
-    - [Initialize](initialize.md)
-    - [Writing content](writing.md)
-    - [Preview your site](preview.md)
-    - [Manual initialization](manual.md)
-    - [Loading dialog](dialog.md)
-  - [Writing more pages](more.md)
-  - [Custom navbar](navbar.md)
-  - [Cover page](cover.md)
-
-- Customization
-  - [Configuration](config.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](highlight.md)
-  - [Emoji](emoji.md)
-
-- Guide
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
+- [Inicio](/README.md)
+- [Proyectos](/proyectos.md)
+- [Clientes](/clientes.md)
+- [Equipo](/equipo.md)
