@@ -9,3 +9,7 @@ Esto es lo que estoy agregando. Una ventaja de este editor es que esta buscando 
 - si podría considerar seguir haciendo esto
 - pendiente que pasa con imágenes
 - pendiente que pasa con link internos
+
+## Hola Rosa María
+
+Esto lo edito en mi cuaderno y luego lo publico a mi página web gratis !!!
