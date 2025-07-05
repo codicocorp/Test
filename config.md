@@ -1,0 +1,3 @@
+# Configuration
+
+Site configuration options.
