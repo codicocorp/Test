@@ -1,3 +1,0 @@
-# Themes
-
-Theme customization.

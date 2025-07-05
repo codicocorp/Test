@@ -1,3 +1,0 @@
-# Configuration
-
-Site configuration options.

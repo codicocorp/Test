@@ -10,6 +10,6 @@ Esto es lo que estoy agregando. Una ventaja de este editor es que esta buscando 
 - pendiente que pasa con imágenes
 - pendiente que pasa con link internos
 
-## Hola Rosa María
+## Buen avance
 
 Esto lo edito en mi cuaderno y luego lo publico a mi página web gratis !!!

@@ -1,3 +1,0 @@
-# Manual Initialization
-
-Advanced setup.

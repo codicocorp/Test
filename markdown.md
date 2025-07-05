@@ -1,3 +1,0 @@
-# Markdown Configuration
-
-Markdown options.
