@@ -13,3 +13,6 @@ Esto es lo que estoy agregando. Una ventaja de este editor es que esta buscando 
 ## Buen avance
 
 Esto lo edito en mi cuaderno y luego lo publico a mi página web gratis !!!
+
+### Segundo cambio
+
