@@ -1,4 +1,3 @@
 - [Inicio](/README.md)
-
-  [Clientes](/clientes1.md)
+- [Clientes](/clientes1.md)
 
